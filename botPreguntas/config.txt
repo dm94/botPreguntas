@@ -1,7 +1,0 @@
-canaltwitch # dm94dani
-oauth # oauth:6hxjz2ezfkpsjuzycaoqicmqnnpc58
-puntos # 10
-usuariots3 # botpreguntas
-contrats3 # yghRZWhd
-servidorts3 # ts3.gzone.es
-puertots3 # 9987
